@@ -1,6 +1,6 @@
 ```mermaid
 
-
+graph
     A[FORM POST REQUESTI] --> B[GET notes]
     B --> C[GET main.css]
     C --> D[GET main.js]
