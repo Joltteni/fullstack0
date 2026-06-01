@@ -1,7 +1,7 @@
 ```mermaid
 
 graph form
-    A(FORM POST REQUESTI)
+    A[FORM POST REQUESTI]
     A --> B(GET notes)
     B --> C(GET main.css)
     C --> D(GET main.js)
